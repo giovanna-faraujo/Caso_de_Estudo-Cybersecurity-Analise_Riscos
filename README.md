@@ -61,7 +61,7 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 | Conexão à internet | Ataques de negação de serviço (DoS/DDoS) | Filtragem e proteção especializada contra DDoS |
 | Rede cabeada e Wi-Fi | Conexões não autorizadas e interceptação | Autenticação forte, criptografia e segmentação de rede |
 
-**Observação:** são ameaças *possíveis* e controles *recomendados*. O exercício não comprova que a Athena sofreu ataques. Algumas medidas, como MFA, HTTPS/TLS, consultas parametrizadas e segmentação, complementam os exemplos do material didático.
+**Observação:** são ameaças possíveis e controles recomendados. O exercício não comprova que a Athena sofreu ataques.
 
 ---
 
