@@ -28,7 +28,7 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 | Dados pessoais dos alunos | Vazamento e roubo de identidade | Criptografar os dados e limitar quem pode acessar |
 | Informações de pagamento | Roubo de dados financeiros | Criptografia e acesso restrito |
 | Conteúdo dos cursos | Cópia, alteração ou acesso indevido | Autenticação forte e proteção das aplicações web |
-| Arquivos enviados por parceiros | Interceptação ou alteração | Conexão segura (HTTPS/TLS) e verificação de integridade |
+| Arquivos enviados por parceiros | Capturar ou alteração | Conexão segura (HTTPS/TLS) e verificação de integridade |
 | Informações acessadas remotamente | Exposição de dados | VPN, autenticação multifator (MFA) e permissões necessárias |
 
 ---
