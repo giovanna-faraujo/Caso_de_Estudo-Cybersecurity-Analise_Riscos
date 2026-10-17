@@ -86,6 +86,8 @@ flowchart TD
 | **Risco** | Chance de acontecer X Tamanho do prejuízo | Vazamento de dados |
 | **Mitigação** | Ação para diminuir o risco | Atualizar sistemas e limitar acessos |
 
+---
+
 ## Principais aprendizados
 
 - **Conhecer antes de proteger:** não dá para planejar a segurança sem saber quais dados, sistemas e aparelhos fazem parte da empresa.
@@ -93,7 +95,9 @@ flowchart TD
 - **Juntar várias defesas:** criptografia protege o sigilo dos dados, cópias de segurança ajudam a recuperar arquivos e atualizações consertam falhas conhecidas.
 - **Anotar os riscos:** juntar o que é o alvo, o perigo e a defesa deixa a análise clara e mostra o que resolver primeiro.
 
-**Minha principal conclusão sobre o conteúdo:** segurança não depende só de antivírus ou firewall. Também exige controlar quem entra, manter os sistemas atualizados, proteger as informações e orientar as pessoas.
+Segurança não depende só de antivírus ou firewall. Também exige controlar quem entra, manter os sistemas atualizados, proteger as informações e orientar as pessoas.
+
+---
 
 ## Relação com as áreas em que estou me desenvolvendo
 
