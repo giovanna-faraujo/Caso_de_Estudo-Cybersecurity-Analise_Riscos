@@ -83,7 +83,7 @@ flowchart TD
 | **Ativo** | Algo valioso para a empresa | Dados dos alunos |
 | **Ameaça** | Algo que pode trazer prejuízo | Tentativa de invasão |
 | **Vulnerabilidade** | Uma brecha ou fraqueza que pode ser usada | Sistema sem atualizar |
-| **Risco** | A chance de algo dar problema | Vazamento de dados |
+| **Risco** | Chance de acontecer X Tamanho do prejuízo | Vazamento de dados |
 | **Mitigação** | Ação para diminuir o risco | Atualizar sistemas e limitar acessos |
 
 ## Principais aprendizados
