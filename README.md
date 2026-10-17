@@ -19,6 +19,8 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 2. Relacionar ameaças possíveis a cada grupo.
 3. Propor medidas de proteção e explicar sua finalidade.
 
+---
+
 ### Dados e informações
 
 | O que proteger | Possível ameaça | Como reduzir o risco |
@@ -29,6 +31,8 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 | Arquivos enviados por parceiros | Interceptação ou alteração | Conexão segura (HTTPS/TLS) e verificação de integridade |
 | Informações acessadas remotamente | Exposição de dados | VPN, autenticação multifator (MFA) e permissões necessárias |
 
+---
+
 ### Sistemas e aplicações
 
 | O que proteger | Possível ameaça | Como reduzir o risco |
@@ -37,6 +41,8 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 | Bancos de dados SQL | Injeção SQL e acesso indevido | Consultas parametrizadas, validação de entradas e controle de permissões |
 | Sites e aplicações internas | Exploração de falhas e alteração de conteúdo | Atualizações, desenvolvimento seguro e testes de segurança |
 
+---
+
 ### Equipamentos físicos
 
 | O que proteger | Possível ameaça | Como reduzir o risco |
@@ -44,6 +50,8 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 | Computadores e notebooks | Roubo, dano ou perda de dados | Criptografia de disco, backups e proteção física |
 | Servidores | Falha de hardware ou energia | Backups, redundância e acesso físico restrito |
 | Equipamentos de rede | Danos e acesso administrativo indevido | Proteção elétrica e restrição de acesso |
+
+---
 
 ### Rede e conectividade
 
