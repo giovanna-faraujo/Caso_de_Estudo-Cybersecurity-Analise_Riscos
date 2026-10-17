@@ -23,43 +23,43 @@ Descobrir o que precisa de proteção, quais perigos podem afetar a empresa e co
 
 ### Dados e informações
 
-| O que proteger | Perigo possível | Como reduzir o risco |
+| O que proteger | Possível ameaça | Como reduzir o risco |
 |---|---|---|
-| Dados pessoais dos alunos | Vazamento e roubo de identidade | Criptografar e limitar quem pode ver |
-| Informações de pagamento | Roubo de dados de dinheiro | Criptografia e acesso restrito |
-| Conteúdo dos cursos | Cópia, mudança ou acesso sem permissão | Senha forte com confirmação e proteção dos sites |
-| Arquivos enviados por parceiros | Pegar no meio do caminho ou alteração | Conexão segura (HTTPS/TLS) e checagem de integridade |
-| Informações acessadas de longe | Exposição de dados | Rede privada (VPN), confirmação em duas etapas (MFA) e permissões certas |
+| Dados pessoais dos alunos | Vazamento e roubo de identidade | Criptografar os dados e limitar quem pode acessar |
+| Informações de pagamento | Roubo de dados financeiros | Criptografia e acesso restrito |
+| Conteúdo dos cursos | Cópia, alteração ou acesso indevido | Autenticação forte e proteção das aplicações web |
+| Arquivos enviados por parceiros | Capturar ou alteração | Conexão segura (HTTPS/TLS) e verificação de integridade |
+| Informações acessadas remotamente | Exposição de dados | VPN, autenticação multifator (MFA) e permissões necessárias |
 
 ---
 
 ### Sistemas e aplicações
 
-| O que proteger | Perigo possível | Como reduzir o risco |
+| O que proteger | Possível ameaça | Como reduzir o risco |
 |---|---|---|
-| Windows, Linux e programas | Vírus (malware) e falhas nos sistemas | Atualizações, proteção nos aparelhos e orientação aos usuários |
-| Bancos de dados SQL | Ataques de injeção de código e acesso indevido | Consultas seguras, checagem de dados e controle de quem pode entrar |
-| Sites e sistemas internos | Explorar falhas e mudar conteúdos | Atualizações, criação segura de programas e testes de segurança |
+| Windows, Linux e aplicativos | Malware e exploração de falhas | Atualizações, proteção de endpoint e orientação aos usuários |
+| Bancos de dados SQL | Injeção SQL e acesso indevido | Consultas parametrizadas, validação de entradas e controle de permissões |
+| Sites e aplicações internas | Exploração de falhas e alteração de conteúdo | Atualizações, desenvolvimento seguro e testes de segurança |
 
 ---
 
 ### Equipamentos físicos
 
-| O que proteger | Perigo possível | Como reduzir o risco |
+| O que proteger | Possível ameaça | Como reduzir o risco |
 |---|---|---|
-| Computadores e notebooks | Roubo, quebra ou perda de dados | Criptografia no disco, cópias de segurança (backups) e proteção física |
-| Servidores | Pane nas peças ou falta de luz | Cópias de segurança, peças reservas e acesso físico controlado |
-| Aparelhos de rede | Danos e acesso de pessoas não autorizadas | Proteção contra queda de luz e bloqueio de acesso |
+| Computadores e notebooks | Roubo, dano ou perda de dados | Criptografia de disco, backups e proteção física |
+| Servidores | Falha de hardware ou energia | Backups, redundância e acesso físico restrito |
+| Equipamentos de rede | Danos e acesso administrativo indevido | Proteção elétrica e restrição de acesso |
 
 ---
 
-### Rede e conexão
+### Rede e conectividade
 
-| O que proteger | Perigo possível | Como reduzir o risco |
+| O que proteger | Possível ameaça | Como reduzir o risco |
 |---|---|---|
-| DNS e outros serviços de rede | Falsificação de respostas e uso incorreto | Boa configuração e filtros adequados |
-| Conexão com a internet | Ataques para derrubar o sistema (DoS/DDoS) | Filtros e proteção especial contra quedas |
-| Cabo de rede e WiFi | Acessos não autorizados e pegar dados no meio do caminho | Senhas fortes, criptografia e divisão da rede |
+| DNS e demais serviços de rede | Falsificação de respostas e uso indevido | Configuração segura e filtragem adequada |
+| Conexão à internet | Ataques de negação de serviço (DoS/DDoS) | Filtragem e proteção especializada contra DDoS |
+| Rede cabeada e Wi-Fi | Conexões não autorizadas e interceptação | Autenticação forte, criptografia e segmentação de rede |
 
 **Observação:** Estes são perigos possíveis e controles recomendados. O exercício não prova que a Athena sofreu ataques.
 
