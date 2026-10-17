@@ -9,7 +9,9 @@ Este estudo de caso da Cisco NetAcad apresenta os riscos de segurança de uma em
 
 A Athena oferece cursos online, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
 
-**Desafio:** identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e como reduzir os riscos. Esta é uma **análise de um cenário fictício**, não uma auditoria ou implementação de segurança.
+## Desafio
+
+Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e como reduzir os riscos. Esta é uma **análise de um cenário fictício**, não uma auditoria ou implementação de segurança.
 
 ## Como a análise foi organizada
 
