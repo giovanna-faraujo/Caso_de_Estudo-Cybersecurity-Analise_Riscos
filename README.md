@@ -1,6 +1,5 @@
-# Laboratório: Análise de Riscos em Cybersecurity
+# Laboratório Cisco Networking Academy: Análise de Riscos em Cybersecurity
 
-> **Laboratório educacional — Cisco Networking Academy (NetAcad)**  
 > **Atividade:** Documente os problemas de segurança digital empresarial  
 > **Cenário:** Athena Learning Incorporated (empresa fictícia)
 
