@@ -11,7 +11,7 @@ A Athena offers cursos online, guarda informações de alunos e pagamentos e com
 
 ## Desafio
 
-Descobrir o que precisa de proteção, quais perigos podem afetar a empresa e como diminuir os riscos. Esta é uma **simulação de uma situação de mentira**, e não uma auditoria real ou instalação de segurança.
+Descobrir o que precisa de proteção, quais perigos podem afetar a empresa e como diminuir os riscos. Esta é uma simulação, e não uma auditoria real ou instalação de segurança.
 
 ## Como a análise foi organizada
 
