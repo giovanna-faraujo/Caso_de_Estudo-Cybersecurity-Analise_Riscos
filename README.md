@@ -1,12 +1,14 @@
-# Segurança digital empresarial | Análise de ameaças e mitigação
+# Caso de Estudo | Análise de Riscos em Cybersecurity
 
-> **Laboratório educacional — Cisco Networking Academy (NetAcad)**  
+> **Laboratório — Cisco Networking Academy (NetAcad)**  
 > **Atividade:** Documente os problemas de segurança digital empresarial  
 > **Cenário:** Athena Learning Incorporated (empresa fictícia)
 
-## Sobre o laboratório
+## Sobre o estudo de caso
 
-A Athena oferece cursos on-line, guarda dados de alunos e pagamentos e compartilha conteúdos com parceiros. Seu ambiente inclui computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
+Este estudo de caso da Cisco NetAcad apresenta os riscos de segurança de uma empresa fictícia e formas de proteger seus dados, sistemas e equipamentos.
+
+A Athena oferece cursos on-line, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
 
 **Desafio:** identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e como reduzir os riscos. Esta é uma **análise de um cenário fictício**, não uma auditoria ou implementação de segurança.
 
@@ -88,8 +90,5 @@ flowchart TD
 - **IAM:** autenticação, revisão de permissões e princípio do menor privilégio.
 - **Cybersecurity:** identificação de ativos, análise de ameaças e recomendação de controles.
 
-## Sobre as evidências e a autoria
 
-Este README resume e reorganiza o cenário e as respostas de referência do laboratório da **Cisco Networking Academy**, incluindo explicações e recomendações complementares para estudo. O fluxograma é **conceitual**. O arquivo-base não contém evidências de testes, configurações aplicadas ou controles implementados; por isso, nenhum desses resultados é reivindicado aqui.
-
-**Referência:** Cisco Networking Academy — *Laboratório: Documente os problemas de segurança digital empresarial* (material educacional disponibilizado no curso).
+**Referência:** Cisco Networking Academy — *Laboratório: Documente os problemas de segurança digital empresarial*
