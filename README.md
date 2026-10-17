@@ -25,7 +25,7 @@ Descobrir o que precisa de proteção, quais perigos podem afetar a empresa e co
 
 | O que proteger | Perigo possível | Como reduzir o risco |
 |---|---|---|
-| Dados pessoais dos alunos | Vazamento e roubo de identidade | Embaralhar os dados (criptografar) e limitar quem pode ver |
+| Dados pessoais dos alunos | Vazamento e roubo de identidade | Criptografar e limitar quem pode ver |
 | Informações de pagamento | Roubo de dados de dinheiro | Criptografia e acesso restrito |
 | Conteúdo dos cursos | Cópia, mudança ou acesso sem permissão | Senha forte com confirmação e proteção dos sites |
 | Arquivos enviados por parceiros | Pegar no meio do caminho ou alteração | Conexão segura (HTTPS/TLS) e checagem de integridade |
