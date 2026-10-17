@@ -1,7 +1,6 @@
 # Caso de Estudo | Análise de Riscos em Cybersecurity
 
 > **Laboratório — Cisco Networking Academy (NetAcad)** 
-> **Referência:** Cisco Networking Academy — *Laboratório: Documente os problemas de segurança digital empresarial*
 > **Atividade:** Documente os problemas de segurança digital empresarial  
 > **Cenário:** Athena Learning Incorporated (empresa fictícia)
 
