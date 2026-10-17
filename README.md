@@ -1,6 +1,7 @@
 # Caso de Estudo | Análise de Riscos em Cybersecurity
 
-> **Laboratório — Cisco Networking Academy (NetAcad)**  
+> **Laboratório — Cisco Networking Academy (NetAcad)** 
+> **Referência:** Cisco Networking Academy — *Laboratório: Documente os problemas de segurança digital empresarial*
 > **Atividade:** Documente os problemas de segurança digital empresarial  
 > **Cenário:** Athena Learning Incorporated (empresa fictícia)
 
@@ -90,5 +91,3 @@ flowchart TD
 - **IAM:** autenticação, revisão de permissões e princípio do menor privilégio.
 - **Cybersecurity:** identificação de ativos, análise de ameaças e recomendação de controles.
 
-
-**Referência:** Cisco Networking Academy — *Laboratório: Documente os problemas de segurança digital empresarial*
