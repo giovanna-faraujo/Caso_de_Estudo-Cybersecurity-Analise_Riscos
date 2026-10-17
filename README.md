@@ -1,4 +1,4 @@
-# Caso de Estudo | Análise de Riscos em Cybersecurity
+# Laboratório: Análise de Riscos em Cybersecurity
 
 > **Laboratório educacional — Cisco Networking Academy (NetAcad)**  
 > **Atividade:** Documente os problemas de segurança digital empresarial  
