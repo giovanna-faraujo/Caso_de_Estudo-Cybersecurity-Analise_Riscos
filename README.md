@@ -63,6 +63,8 @@ Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e
 
 **Observação:** são ameaças *possíveis* e controles *recomendados*. O exercício não comprova que a Athena sofreu ataques. Algumas medidas, como MFA, HTTPS/TLS, consultas parametrizadas e segmentação, complementam os exemplos do material didático.
 
+---
+
 ## Fluxo da análise
 
 ```mermaid
