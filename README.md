@@ -5,63 +5,63 @@
 
 ## Sobre o estudo de caso
 
-Este estudo de caso da Cisco NetAcad apresenta os riscos de segurança de uma empresa fictícia e formas de proteger seus dados, sistemas e equipamentos.
+Este estudo de caso da Cisco NetAcad mostra os riscos de segurança de uma empresa de mentira e como proteger seus dados, sistemas e equipamentos.
 
-A Athena oferece cursos online, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
+A Athena offers cursos online, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Para isso, usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
 
 ## Desafio
 
-Identificar o que precisa ser protegido, quais ameaças podem afetar a empresa e como reduzir os riscos. Esta é uma **análise de um cenário fictício**, não uma auditoria ou implementação de segurança.
+Descobrir o que precisa de proteção, quais perigos podem afetar a empresa e como diminuir os riscos. Esta é uma **simulação de uma situação de mentira**, e não uma auditoria real ou instalação de segurança.
 
 ## Como a análise foi organizada
 
-1. Identificar os ativos (informações, sistemas, equipamentos e rede).
-2. Relacionar ameaças possíveis a cada grupo.
-3. Propor medidas de proteção e explicar sua finalidade.
+1. Descobrir os bens de valor (informações, sistemas, equipamentos e rede).  
+2. Ver quais ameaças podem atingir cada grupo.  
+3. Sugerir formas de proteção e explicar para que servem.
 
 ---
 
 ### Dados e informações
 
-| O que proteger | Possível ameaça | Como reduzir o risco |
+| O que proteger | Perigo possível | Como reduzir o risco |
 |---|---|---|
-| Dados pessoais dos alunos | Vazamento e roubo de identidade | Criptografar os dados e limitar quem pode acessar |
-| Informações de pagamento | Roubo de dados financeiros | Criptografia e acesso restrito |
-| Conteúdo dos cursos | Cópia, alteração ou acesso indevido | Autenticação forte e proteção das aplicações web |
-| Arquivos enviados por parceiros | Capturar ou alteração | Conexão segura (HTTPS/TLS) e verificação de integridade |
-| Informações acessadas remotamente | Exposição de dados | VPN, autenticação multifator (MFA) e permissões necessárias |
+| Dados pessoais dos alunos | Vazamento e roubo de identidade | Embaralhar os dados (criptografar) e limitar quem pode ver |
+| Informações de pagamento | Roubo de dados de dinheiro | Criptografia e acesso restrito |
+| Conteúdo dos cursos | Cópia, mudança ou acesso sem permissão | Senha forte com confirmação e proteção dos sites |
+| Arquivos enviados por parceiros | Pegar no meio do caminho ou alteração | Conexão segura (HTTPS/TLS) e checagem de integridade |
+| Informações acessadas de longe | Exposição de dados | Rede privada (VPN), confirmação em duas etapas (MFA) e permissões certas |
 
 ---
 
 ### Sistemas e aplicações
 
-| O que proteger | Possível ameaça | Como reduzir o risco |
+| O que proteger | Perigo possível | Como reduzir o risco |
 |---|---|---|
-| Windows, Linux e aplicativos | Malware e exploração de falhas | Atualizações, proteção de endpoint e orientação aos usuários |
-| Bancos de dados SQL | Injeção SQL e acesso indevido | Consultas parametrizadas, validação de entradas e controle de permissões |
-| Sites e aplicações internas | Exploração de falhas e alteração de conteúdo | Atualizações, desenvolvimento seguro e testes de segurança |
+| Windows, Linux e programas | Vírus (malware) e falhas nos sistemas | Atualizações, proteção nos aparelhos e orientação aos usuários |
+| Bancos de dados SQL | Ataques de injeção de código e acesso indevido | Consultas seguras, checagem de dados e controle de quem pode entrar |
+| Sites e sistemas internos | Explorar falhas e mudar conteúdos | Atualizações, criação segura de programas e testes de segurança |
 
 ---
 
 ### Equipamentos físicos
 
-| O que proteger | Possível ameaça | Como reduzir o risco |
+| O que proteger | Perigo possível | Como reduzir o risco |
 |---|---|---|
-| Computadores e notebooks | Roubo, dano ou perda de dados | Criptografia de disco, backups e proteção física |
-| Servidores | Falha de hardware ou energia | Backups, redundância e acesso físico restrito |
-| Equipamentos de rede | Danos e acesso administrativo indevido | Proteção elétrica e restrição de acesso |
+| Computadores e notebooks | Roubo, quebra ou perda de dados | Criptografia no disco, cópias de segurança (backups) e proteção física |
+| Servidores | Pane nas peças ou falta de luz | Cópias de segurança, peças reservas e acesso físico controlado |
+| Aparelhos de rede | Danos e acesso de pessoas não autorizadas | Proteção contra queda de luz e bloqueio de acesso |
 
 ---
 
-### Rede e conectividade
+### Rede e conexão
 
-| O que proteger | Possível ameaça | Como reduzir o risco |
+| O que proteger | Perigo possível | Como reduzir o risco |
 |---|---|---|
-| DNS e demais serviços de rede | Falsificação de respostas e uso indevido | Configuração segura e filtragem adequada |
-| Conexão à internet | Ataques de negação de serviço (DoS/DDoS) | Filtragem e proteção especializada contra DDoS |
-| Rede cabeada e Wi-Fi | Conexões não autorizadas e interceptação | Autenticação forte, criptografia e segmentação de rede |
+| DNS e outros serviços de rede | Falsificação de respostas e uso incorreto | Boa configuração e filtros adequados |
+| Conexão com a internet | Ataques para derrubar o sistema (DoS/DDoS) | Filtros e proteção especial contra quedas |
+| Cabo de rede e WiFi | Acessos não autorizados e pegar dados no meio do caminho | Senhas fortes, criptografia e divisão da rede |
 
-**Observação:** são ameaças possíveis e controles recomendados. O exercício não comprova que a Athena sofreu ataques.
+**Observação:** Estes são perigos possíveis e controles recomendados. O exercício não prova que a Athena sofreu ataques.
 
 ---
 
@@ -80,24 +80,23 @@ flowchart TD
 
 | Conceito | Em palavras simples | Exemplo |
 |---|---|---|
-| **Ativo** | Algo importante para a empresa | Dados dos alunos |
-| **Ameaça** | Algo que pode causar danos | Tentativa de invasão |
-| **Vulnerabilidade** | Fraqueza que pode ser explorada | Sistema desatualizado |
-| **Risco** | Possibilidade de dano e seu impacto | Vazamento de dados |
-| **Mitigação** | Ação para reduzir o risco | Atualizar sistemas e restringir acessos |
+| **Ativo** | Algo valioso para a empresa | Dados dos alunos |
+| **Ameaça** | Algo que pode trazer prejuízo | Tentativa de invasão |
+| **Vulnerabilidade** | Uma brecha ou fraqueza que pode ser usada | Sistema sem atualizar |
+| **Risco** | A chance de algo dar errado e o tamanho do estrago | Vazamento de dados |
+| **Mitigação** | Ação para diminuir o risco | Atualizar sistemas e limitar acessos |
 
 ## Principais aprendizados
 
-- **Identificar antes de proteger:** não é possível planejar a segurança sem conhecer os dados, sistemas e equipamentos envolvidos.
-- **Proteger acessos:** cada pessoa deve ter apenas as permissões necessárias; MFA ajuda a reduzir o risco de uso indevido de contas.
-- **Combinar medidas:** criptografia protege a confidencialidade dos dados, backups ajudam na recuperação e atualizações corrigem falhas conhecidas.
-- **Documentar riscos:** relacionar ativo, ameaça e proteção torna a análise mais clara e facilita a definição de prioridades.
+- **Conhecer antes de proteger:** não dá para planejar a segurança sem saber quais dados, sistemas e aparelhos fazem parte da empresa.
+- **Controlar acessos:** cada pessoa deve ter somente as permissões que precisa; usar confirmação em duas etapas (MFA) ajuda a evitar o uso indevido de contas.
+- **Juntar várias defesas:** criptografia protege o sigilo dos dados, cópias de segurança ajudam a recuperar arquivos e atualizações consertam falhas conhecidas.
+- **Anotar os riscos:** juntar o que é o alvo, o perigo e a defesa deixa a análise clara e mostra o que resolver primeiro.
 
-**Minha principal conclusão sobre o conteúdo:** segurança não depende apenas de antivírus ou firewall. Também envolve controle de acessos, manutenção dos sistemas, proteção dos dados e orientação das pessoas.
+**Minha principal conclusão sobre o conteúdo:** segurança não depende só de antivírus ou firewall. Também exige controlar quem entra, manter os sistemas atualizados, proteger as informações e orientar as pessoas.
 
-### Relação com as áreas em que estou me desenvolvendo
+## Relação com as áreas em que estou me desenvolvendo
 
-- **Suporte N1:** atualização de equipamentos, orientação a usuários e registro de incidentes.
-- **IAM:** autenticação, revisão de permissões e princípio do menor privilégio.
-- **Cybersecurity:** identificação de ativos, análise de ameaças e recomendação de controles.
-
+- **Suporte N1:** atualizar equipamentos, orientar usuários e registrar chamados de problemas.
+- **IAM (Gestão de Acessos):** cuidar de senhas, revisar permissões e dar o mínimo de acesso necessário para cada um.
+- **Cybersecurity:** descobrir o que precisa ser protegido, analisar perigos e sugerir defesas.
