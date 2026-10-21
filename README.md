@@ -8,7 +8,7 @@ Este estudo de caso da Cisco NetAcad mostra os riscos de segurança de uma empre
 
 A Athena offers cursos online, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Para isso, usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
 
-<img width="1536" height="1024" alt="Mapa Visual de Análise de Riscos Cibernéticos" src="https://github.com/user-attachments/assets/7f2fd269-edeb-46ae-a9ec-789d5c17d9da" />
+<img width="1536" height="1024" alt="Mapa Mental de Análise de Riscos Cibernéticos" src="https://github.com/user-attachments/assets/e86b6120-7651-4a12-b3b4-cd0840977948" />
 
 ---
 
