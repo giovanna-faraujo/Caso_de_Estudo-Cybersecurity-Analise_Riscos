@@ -1,7 +1,9 @@
-# Laboratório Cisco Networking Academy: Análise de Riscos em Cybersecurity
+# Análise de Riscos em Cybersecurity
 
 > **Atividade:** Documente os problemas de segurança digital empresarial  
 > **Cenário:** Athena Learning Incorporated (empresa fictícia)
+
+---
 
 ## Sobre o estudo de caso
 
@@ -9,15 +11,22 @@ Este estudo de caso da Cisco NetAcad mostra os riscos de segurança de uma empre
 
 A Athena offers cursos online, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Para isso, usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
 
+---
+
 ## Desafio
 
 Descobrir o que precisa de proteção, quais perigos podem afetar a empresa e como diminuir os riscos. Esta é uma simulação, e não uma auditoria real ou instalação de segurança.
+
+---
 
 ## Como a análise foi organizada
 
 1. Descobrir os bens de valor (informações, sistemas, equipamentos e rede).  
 2. Ver quais ameaças podem atingir cada grupo.  
 3. Sugerir formas de proteção e explicar para que servem.
+
+<img width="2752" height="1536" alt="Topologia" src="https://github.com/user-attachments/assets/c4b1b483-d1ee-470d-a401-0b4c6b2a5a6a" />
+
 
 ---
 
@@ -75,6 +84,8 @@ flowchart TD
     D --> E[Recomendar medidas de proteção]
     E --> F[Documentar os resultados]
 ```
+
+---
 
 ## Conceitos que pratiquei ao estudar o cenário
 
