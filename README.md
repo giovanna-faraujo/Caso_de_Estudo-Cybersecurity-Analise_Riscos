@@ -1,18 +1,14 @@
 # Análise de Riscos em Cybersecurity
 
-> **Atividade:** Documente os problemas de segurança digital empresarial  
-> **Cenário:** Athena Learning Incorporated (empresa fictícia)
-
 ---
 
 ## Sobre o estudo de caso
 
-Este estudo de caso da Cisco NetAcad mostra os riscos de segurança de uma empresa de mentira e como proteger seus dados, sistemas e equipamentos.
+Este estudo de caso da Cisco NetAcad mostra os riscos de segurança de uma empresa fictícia e como proteger seus dados, sistemas e equipamentos.
 
 A Athena offers cursos online, guarda informações de alunos e pagamentos e compartilha conteúdos com parceiros. Para isso, usa computadores, servidores, bancos de dados, serviços em nuvem e acesso remoto.
 
-<img width="2752" height="1536" alt="Topologia" src="https://github.com/user-attachments/assets/5b3718d4-2685-4af1-be9b-c77451a065d3" />
-
+<img width="1536" height="1024" alt="Mapa Visual de Análise de Riscos Cibernéticos" src="https://github.com/user-attachments/assets/7f2fd269-edeb-46ae-a9ec-789d5c17d9da" />
 
 ---
 
