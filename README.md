@@ -10,9 +10,6 @@ A Athena offers cursos online, guarda informações de alunos e pagamentos e com
 
 <img width="618" height="411" alt="image" src="https://github.com/user-attachments/assets/6963bf79-1ae4-408f-9059-ba8f4b33fafe" />
 
-
-<img width="1536" height="1024" alt="Mapa Mental de Análise de Riscos Cibernéticos" src="https://github.com/user-attachments/assets/e86b6120-7651-4a12-b3b4-cd0840977948" />
-
 ---
 
 ## Desafio
